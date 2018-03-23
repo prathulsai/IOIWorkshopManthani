@@ -8,7 +8,7 @@ const char* ssid     = "Net Lab";
 const char* pass = "";
 
 const char* server1 = "52.33.33.53";
-const char* url1 = "GET /iot/api/user/ukey=DR0MIGCPSE8KPC1RUXJP9FXZQSOO1VTL&mode=248&skey=7PEC3RJV/";
+const char* url1 = "GET /iot/api/user/ukey=xxxxxxxxxxxxxxxxxx&mode=xxx&skey=xxxxxxxx/";
 WiFiClient client;
 void setup() 
 {
